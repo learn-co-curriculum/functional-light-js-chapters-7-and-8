@@ -25,7 +25,6 @@
 4. Author describes `const` as unhelpful, because scopes and closures control lexical reassignment, so this "special" declaration is essentially unnecessary. Do we agree?
 5. Author talks about hard core FPers using `Object.freeze()` and `const` to keep functions pure and prevent reassignment, and how he disagrees with this. Author is pro-variable reassignment, as long as it's "used appropriately". Where do we fall on reassignment? Hard-core FP vs FP lite?
 
-
 ## Chapter 8: Recursion
 
 ### Highlights
@@ -42,7 +41,6 @@ ES6 introduced Proper Tail Calls with guarantee PTC will "run without unbounded 
 
 Readability > Recursion (p221)
 
-
 #### Pros of using recursion
 
 - Can replace conditional branching with recursion. See Kate's [post on pattern matching](https://medium.com/flatiron-labs/perfect-match-pattern-matching-in-elixir-9d49ced20b07).
@@ -55,7 +53,6 @@ Readability > Recursion (p221)
 - CPS (Continuous Passing Style)
 - Trampolines
 
-
 ### Discussion Topics
 
 1. Author lumps recursion in with regular expressions, as stuff that's powerful but dangerous. Unfair?
@@ -65,7 +62,6 @@ Readability > Recursion (p221)
 
 ## Resources
  tbd
-
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/functional-light-js-chapters-7-and-8'>Functional Light JS Chapters 7 and 8</a> on Learn.co and start learning to code for free.</p>
