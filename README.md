@@ -1,4 +1,11 @@
+# Introduction
+
 Chapters 7 and 8 cover Closure vs Objects and Recursion. Below are rough discussion notes.
+
+## Objectives
+
+- Understand closure vs objects
+- Understand recursion as applied w/i Functional Programming
 
 ## Chapter 7: Closure vs Object
 
