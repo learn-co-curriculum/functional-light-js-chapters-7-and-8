@@ -1,3 +1,5 @@
+Chapters 7 and 8 cover Closure vs Objects and Recursion. Below are rough discussion notes.
+
 ## Chapter 7: Closure vs Object
 
 ### Highlights
